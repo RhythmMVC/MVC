@@ -12,6 +12,7 @@ namespace Rhythm
     {
         protected void Application_Start()
         {
+            //Test Commit
             AreaRegistration.RegisterAllAreas();
             FilterConfig.RegisterGlobalFilters(GlobalFilters.Filters);
             RouteConfig.RegisterRoutes(RouteTable.Routes);

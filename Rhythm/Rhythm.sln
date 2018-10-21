@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2041
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rhythm", "Rhythm\Rhythm.csproj", "{E2747117-A3B7-470C-94BA-AC69FB9EEBCC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E2747117-A3B7-470C-94BA-AC69FB9EEBCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2747117-A3B7-470C-94BA-AC69FB9EEBCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2747117-A3B7-470C-94BA-AC69FB9EEBCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2747117-A3B7-470C-94BA-AC69FB9EEBCC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8F51CC86-D842-45A7-8714-FA1B6034A6E8}
+	EndGlobalSection
+EndGlobal
